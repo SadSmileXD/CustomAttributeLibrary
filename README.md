@@ -12,3 +12,9 @@ public enum BackGroundImagePath
 }
 
 작성 했을 때 인스펙트 창에서  [테스트] 로 표시됩니다.
+
+사용법
+코드 실행 후 
+생성된 dll파일을 유니티 폴더에 삽입한다.
+
+
