@@ -17,4 +17,4 @@ public enum BackGroundImagePath
 코드 실행 후 
 생성된 dll파일을 유니티 폴더에 삽입한다.
 
-
+Readme 처음써봐서 나중에 이쁘게 기록
