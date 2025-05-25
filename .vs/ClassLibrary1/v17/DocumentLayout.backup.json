@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phyco\\Documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\CustomDisplayEnum\\CustomAttributeLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E52C57-7A16-4EF9-BBF0-97F979A352F0}|ClassLibrary1.csproj|c:\\users\\phyco\\documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\customdisplayenum\\customattributelibrary\\propertydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E52C57-7A16-4EF9-BBF0-97F979A352F0}|ClassLibrary1.csproj|solutionrelative:propertydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E52C57-7A16-4EF9-BBF0-97F979A352F0}|ClassLibrary1.csproj|c:\\users\\phyco\\documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\customdisplayenum\\customattributelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E52C57-7A16-4EF9-BBF0-97F979A352F0}|ClassLibrary1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\CustomDisplayEnum\\CustomAttributeLibrary\\PropertyDrawer.cs",
+              "RelativeDocumentMoniker": "PropertyDrawer.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\CustomDisplayEnum\\CustomAttributeLibrary\\PropertyDrawer.cs",
+              "RelativeToolTip": "PropertyDrawer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:10:28.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\CustomDisplayEnum\\CustomAttributeLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\\uB77C\uC774\uBE0C\uB7EC\uB9AC \uD3F4\uB354\\CustomDisplayEnum\\CustomAttributeLibrary\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:59:33.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
